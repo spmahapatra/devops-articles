@@ -162,5 +162,3 @@ Now that your Debian instance is up and running, here are some good first steps:
 - **Access Debian files** from Windows Explorer by typing `\\wsl$\Debian` in the address bar
 
 ---
-
-*Happy hacking! If you found this useful, feel free to share it or leave a comment below.*
