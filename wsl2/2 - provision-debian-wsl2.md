@@ -162,3 +162,8 @@ Now that your Debian instance is up and running, here are some good first steps:
 - **Access Debian files** from Windows Explorer by typing `\\wsl$\Debian` in the address bar
 
 ---
+## What's Next
+
+- [Set up Git with SSH keys in WSL2](3%20-%20git-ssh-setup.md)
+
+---
